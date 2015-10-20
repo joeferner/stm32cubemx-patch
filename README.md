@@ -5,4 +5,5 @@ This code fixes a bug in STM32CubeMX which only appears on non-Windows platforms
 - Unpack `gpio.jar` into a new directory
 - Run `java com.fernsroth.stm32cubmxpatch.Patch <gpio dir>`
 - Repackage `gpio.jar`
-`
+
+![Screenshot](screenshot01.jpg)
