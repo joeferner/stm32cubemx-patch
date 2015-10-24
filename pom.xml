@@ -6,7 +6,7 @@
 
     <groupId>com.fernsroth</groupId>
     <artifactId>stm32cubemx-patch</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <dependencies>
         <dependency>
